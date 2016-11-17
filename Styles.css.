@@ -1,0 +1,37 @@
+body {background:blue;
+color:black;
+font size:14pt
+
+font-family: arial;
+}
+
+h1 {font-size: 250%;
+font-weight: bold;
+color:white
+}
+
+h2{ font-size:150%;
+font-style: italic;
+text-decoration: underline}
+
+h3{ font size:175%;
+font-weight: bold;
+color: Grey}
+
+nav li{ display:inline-block;
+border:2px solid black;
+background:grey
+padding: 10px;
+margin: 10px;
+width:250px
+}
+
+
+a{ color: red;
+text-decoration:none}
+a:hover {color:purple
+background: white}
+
+.title {color: pink}
+.special {font-weight: bold}
+
